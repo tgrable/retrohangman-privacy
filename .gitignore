@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# AI tool local data
+.codex/
+
+# Secrets & credentials
+.env*
+sentry.cfg
+*.keystore
+*.pem
+*.key
+credentials*.json
+
+# Temp
+*.tmp
+*.swp
+
+# Logs
+*.log
+
+/android/
+/assets/
